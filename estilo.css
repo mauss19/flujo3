@@ -1,0 +1,5 @@
+body{
+    background-color: aquamarine;
+    display: flex;justify-content: center;
+}
+.container{width:1000px ;height:600px ;}
